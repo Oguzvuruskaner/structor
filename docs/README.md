@@ -97,7 +97,7 @@ Activate a library button with plus icon as it is shown on the screenshot below.
   <img width="70%" src="https://raw.githubusercontent.com/ipselon/structor/master/docs/img/first-tutorial-open-library.png" />
 </p>
 
-We are forwarded to the Structor Market gallery, here we can see what packages of component presets are avaialble to install. Let's install a `mui-next-spkg` package, which includes components from the next version of Material UI lib.
+We are forwarded to the Structor Market gallery, here we can see what packages of component presets are available to install. Let's install a `mui-next-spkg` package, which includes components from the next version of Material UI lib.
 
 <p align="center">
   <img width="70%" src="https://raw.githubusercontent.com/ipselon/structor/master/docs/img/first-tutorial-install-package.png" />
